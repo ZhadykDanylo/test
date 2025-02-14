@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\opoko\\.nuget\\packages\\": {}
+    "C:\\Users\\danylozhadyk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\Inholland\\Year 2\\term 3\\Git-workshop\\calculator-git-assignment\\calculator-git-assignment\\calculator-git-assignment.csproj",
+      "projectUniqueName": "C:\\Users\\danylozhadyk\\Source\\Repos\\calculator-git-assignment\\calculator-git-assignment\\calculator-git-assignment.csproj",
       "projectName": "calculator-git-assignment",
-      "projectPath": "D:\\Coding\\Inholland\\Year 2\\term 3\\Git-workshop\\calculator-git-assignment\\calculator-git-assignment\\calculator-git-assignment.csproj",
-      "packagesPath": "C:\\Users\\opoko\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\Inholland\\Year 2\\term 3\\Git-workshop\\calculator-git-assignment\\calculator-git-assignment\\obj\\",
+      "projectPath": "C:\\Users\\danylozhadyk\\Source\\Repos\\calculator-git-assignment\\calculator-git-assignment\\calculator-git-assignment.csproj",
+      "packagesPath": "C:\\Users\\danylozhadyk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danylozhadyk\\Source\\Repos\\calculator-git-assignment\\calculator-git-assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\opoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danylozhadyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
