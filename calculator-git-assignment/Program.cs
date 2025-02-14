@@ -12,6 +12,8 @@ namespace calculator_git_assignment
 
         private void Start()
         {
+            Console.WriteLine("Calculator started");
+            
             string input = string.Empty;
 
             do
